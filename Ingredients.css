@@ -13,9 +13,11 @@ p{
     padding: 80px;
     text-align:center;
     background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrybc6LPWbnQhNqnW4PpFAK1vVq78_vlfPA&usqp=CAU");
+
+
     color: white;
     background-repeat: no-repeat;
-   background-size: 500px 500px;
+   background-size:cover;
 
   }
   .header h1 {
@@ -62,4 +64,6 @@ p{
   flex-wrap: wrap;
 }
 
+  
+  
   
