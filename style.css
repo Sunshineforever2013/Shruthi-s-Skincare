@@ -17,10 +17,13 @@ p{font-family: serif;
     background-image:url("https://i.pinimg.com/736x/4d/55/f1/4d55f162d07965cc48e32b11b5b32b78.jpg");
     color: white;
     background-repeat: no-repeat;
-   background-size: 2000px 2000px;
+   background-size: 1500px 1000px;
 
   }
-  
+  .header h1 {
+   background-size: 1500px 1000px;
+
+}
 
 .navbar{
   overflow:hidden;
@@ -38,11 +41,8 @@ p{font-family: serif;
   background-color: #ddd;
   color: white;
   
-  @media screen and (max-width: 700px) {
-  .row {
-    flex-direction: column;
-  }
-}
+  
+
 
 @media screen and (max-width:400px) {
   .navbar a{
@@ -55,6 +55,7 @@ p{font-family: serif;
 }
 
 .row{
+ 
   background-image: url("https://c8.alamy.com/zooms/9/f86168e43aab46998a771a2055689834/2h8jk3e.jpg"); background-size: 1000px 1000px;
 }
 
