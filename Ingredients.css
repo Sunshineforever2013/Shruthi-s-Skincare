@@ -17,7 +17,7 @@ p{
 
     color: white;
     background-repeat: no-repeat;
-   background-size:1000px 1000px;
+   background-size:cover;
 
   }
   .header h1 {
@@ -64,6 +64,5 @@ p{
   flex-wrap: wrap;
 }
 
-  
   
   
