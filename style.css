@@ -55,10 +55,6 @@ p{font-family: serif;
 }
 
 .row{
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
   background-image: url("https://c8.alamy.com/zooms/9/f86168e43aab46998a771a2055689834/2h8jk3e.jpg"); background-size: 1000px 1000px;
 }
 
